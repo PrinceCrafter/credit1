@@ -3,7 +3,7 @@ const client = new Discord.Client();
 var prefix = "1";
 
 client.on('ready', () => {
-     client.user.setActivity("Sapmming.",{type: 'WATCHING'})
+     client.user.setActivity("Strive Network",{type: 'WATCHING'})
 
 });
 
